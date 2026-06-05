@@ -1,0 +1,9226 @@
+[
+  {
+    "id": "bulbasaur",
+    "name": "Bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ivysaur",
+    "name": "Ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "venusaur",
+    "name": "Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "charmander",
+    "name": "Charmander",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "charmeleon",
+    "name": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "charizard",
+    "name": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "squirtle",
+    "name": "Squirtle",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "wartortle",
+    "name": "Wartortle",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "blastoise",
+    "name": "Blastoise",
+    "types": [
+      "Water"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ekans",
+    "name": "Ekans",
+    "types": [
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arbok",
+    "name": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachuoriginal",
+    "name": "Pikachu-Original",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachuhoenn",
+    "name": "Pikachu-Hoenn",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachusinnoh",
+    "name": "Pikachu-Sinnoh",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachuunova",
+    "name": "Pikachu-Unova",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachukalos",
+    "name": "Pikachu-Kalos",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachualola",
+    "name": "Pikachu-Alola",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachupartner",
+    "name": "Pikachu-Partner",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikachuworld",
+    "name": "Pikachu-World",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "raichu",
+    "name": "Raichu",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "raichualola",
+    "name": "Raichu-Alola",
+    "types": [
+      "Electric",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sandshrew",
+    "name": "Sandshrew",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sandshrewalola",
+    "name": "Sandshrew-Alola",
+    "types": [
+      "Ice",
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sandslash",
+    "name": "Sandslash",
+    "types": [
+      "Ground"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sandslashalola",
+    "name": "Sandslash-Alola",
+    "types": [
+      "Ice",
+      "Steel"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "clefairy",
+    "name": "Clefairy",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "clefable",
+    "name": "Clefable",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "vulpix",
+    "name": "Vulpix",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "vulpixalola",
+    "name": "Vulpix-Alola",
+    "types": [
+      "Ice"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ninetales",
+    "name": "Ninetales",
+    "types": [
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ninetalesalola",
+    "name": "Ninetales-Alola",
+    "types": [
+      "Ice",
+      "Fairy"
+    ],
+    "tier": "PU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "jigglypuff",
+    "name": "Jigglypuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "wigglytuff",
+    "name": "Wigglytuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oddish",
+    "name": "Oddish",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gloom",
+    "name": "Gloom",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vileplume",
+    "name": "Vileplume",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "venonat",
+    "name": "Venonat",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "venomoth",
+    "name": "Venomoth",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "diglett",
+    "name": "Diglett",
+    "types": [
+      "Ground"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "diglettalola",
+    "name": "Diglett-Alola",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dugtrio",
+    "name": "Dugtrio",
+    "types": [
+      "Ground"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dugtrioalola",
+    "name": "Dugtrio-Alola",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "meowth",
+    "name": "Meowth",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "meowthalola",
+    "name": "Meowth-Alola",
+    "types": [
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "meowthgalar",
+    "name": "Meowth-Galar",
+    "types": [
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "persian",
+    "name": "Persian",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "persianalola",
+    "name": "Persian-Alola",
+    "types": [
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "psyduck",
+    "name": "Psyduck",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "golduck",
+    "name": "Golduck",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mankey",
+    "name": "Mankey",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "primeape",
+    "name": "Primeape",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "growlithe",
+    "name": "Growlithe",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "growlithehisui",
+    "name": "Growlithe-Hisui",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arcanine",
+    "name": "Arcanine",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "arcaninehisui",
+    "name": "Arcanine-Hisui",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "poliwag",
+    "name": "Poliwag",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "poliwhirl",
+    "name": "Poliwhirl",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "poliwrath",
+    "name": "Poliwrath",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bellsprout",
+    "name": "Bellsprout",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "weepinbell",
+    "name": "Weepinbell",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "victreebel",
+    "name": "Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tentacool",
+    "name": "Tentacool",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tentacruel",
+    "name": "Tentacruel",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "geodude",
+    "name": "Geodude",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "geodudealola",
+    "name": "Geodude-Alola",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "graveler",
+    "name": "Graveler",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "graveleralola",
+    "name": "Graveler-Alola",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "golem",
+    "name": "Golem",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "golemalola",
+    "name": "Golem-Alola",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "slowpoke",
+    "name": "Slowpoke",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "slowpokegalar",
+    "name": "Slowpoke-Galar",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "slowbro",
+    "name": "Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "slowbrogalar",
+    "name": "Slowbro-Galar",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "magnemite",
+    "name": "Magnemite",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "magneton",
+    "name": "Magneton",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "tier": "ZU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "doduo",
+    "name": "Doduo",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dodrio",
+    "name": "Dodrio",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "seel",
+    "name": "Seel",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dewgong",
+    "name": "Dewgong",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "grimer",
+    "name": "Grimer",
+    "types": [
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grimeralola",
+    "name": "Grimer-Alola",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "muk",
+    "name": "Muk",
+    "types": [
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mukalola",
+    "name": "Muk-Alola",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shellder",
+    "name": "Shellder",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cloyster",
+    "name": "Cloyster",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gastly",
+    "name": "Gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "haunter",
+    "name": "Haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gengar",
+    "name": "Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "drowzee",
+    "name": "Drowzee",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hypno",
+    "name": "Hypno",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "voltorb",
+    "name": "Voltorb",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "voltorbhisui",
+    "name": "Voltorb-Hisui",
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": "LC",
+    "isNonstandard": null
+  },
+  {
+    "id": "electrode",
+    "name": "Electrode",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "electrodehisui",
+    "name": "Electrode-Hisui",
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "exeggcute",
+    "name": "Exeggcute",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "exeggutor",
+    "name": "Exeggutor",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "exeggutoralola",
+    "name": "Exeggutor-Alola",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "hitmonlee",
+    "name": "Hitmonlee",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "hitmonchan",
+    "name": "Hitmonchan",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "koffing",
+    "name": "Koffing",
+    "types": [
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "weezing",
+    "name": "Weezing",
+    "types": [
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "weezinggalar",
+    "name": "Weezing-Galar",
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rhyhorn",
+    "name": "Rhyhorn",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "rhydon",
+    "name": "Rhydon",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "tier": "PU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "chansey",
+    "name": "Chansey",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "horsea",
+    "name": "Horsea",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "seadra",
+    "name": "Seadra",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "scyther",
+    "name": "Scyther",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "electabuzz",
+    "name": "Electabuzz",
+    "types": [
+      "Electric"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "magmar",
+    "name": "Magmar",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tauros",
+    "name": "Tauros",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "taurospaldeacombat",
+    "name": "Tauros-Paldea-Combat",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "taurospaldeablaze",
+    "name": "Tauros-Paldea-Blaze",
+    "types": [
+      "Fighting",
+      "Fire"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "taurospaldeaaqua",
+    "name": "Tauros-Paldea-Aqua",
+    "types": [
+      "Fighting",
+      "Water"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "magikarp",
+    "name": "Magikarp",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gyarados",
+    "name": "Gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "lapras",
+    "name": "Lapras",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ditto",
+    "name": "Ditto",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "eevee",
+    "name": "Eevee",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vaporeon",
+    "name": "Vaporeon",
+    "types": [
+      "Water"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "jolteon",
+    "name": "Jolteon",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "flareon",
+    "name": "Flareon",
+    "types": [
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "porygon",
+    "name": "Porygon",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "snorlax",
+    "name": "Snorlax",
+    "types": [
+      "Normal"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "articuno",
+    "name": "Articuno",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "articunogalar",
+    "name": "Articuno-Galar",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "zapdos",
+    "name": "Zapdos",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "zapdosgalar",
+    "name": "Zapdos-Galar",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "moltres",
+    "name": "Moltres",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "moltresgalar",
+    "name": "Moltres-Galar",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "dratini",
+    "name": "Dratini",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dragonair",
+    "name": "Dragonair",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dragonite",
+    "name": "Dragonite",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "mewtwo",
+    "name": "Mewtwo",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "mew",
+    "name": "Mew",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "UU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "chikorita",
+    "name": "Chikorita",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "bayleef",
+    "name": "Bayleef",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "meganium",
+    "name": "Meganium",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cyndaquil",
+    "name": "Cyndaquil",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "quilava",
+    "name": "Quilava",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "typhlosion",
+    "name": "Typhlosion",
+    "types": [
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "typhlosionhisui",
+    "name": "Typhlosion-Hisui",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "tier": "PU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "totodile",
+    "name": "Totodile",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "croconaw",
+    "name": "Croconaw",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "feraligatr",
+    "name": "Feraligatr",
+    "types": [
+      "Water"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sentret",
+    "name": "Sentret",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "furret",
+    "name": "Furret",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "hoothoot",
+    "name": "Hoothoot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "noctowl",
+    "name": "Noctowl",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "spinarak",
+    "name": "Spinarak",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ariados",
+    "name": "Ariados",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "chinchou",
+    "name": "Chinchou",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lanturn",
+    "name": "Lanturn",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pichu",
+    "name": "Pichu",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cleffa",
+    "name": "Cleffa",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "igglybuff",
+    "name": "Igglybuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "mareep",
+    "name": "Mareep",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "flaaffy",
+    "name": "Flaaffy",
+    "types": [
+      "Electric"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ampharos",
+    "name": "Ampharos",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bellossom",
+    "name": "Bellossom",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "marill",
+    "name": "Marill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "azumarill",
+    "name": "Azumarill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sudowoodo",
+    "name": "Sudowoodo",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "politoed",
+    "name": "Politoed",
+    "types": [
+      "Water"
+    ],
+    "tier": "RU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "hoppip",
+    "name": "Hoppip",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "skiploom",
+    "name": "Skiploom",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "jumpluff",
+    "name": "Jumpluff",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "aipom",
+    "name": "Aipom",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sunkern",
+    "name": "Sunkern",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sunflora",
+    "name": "Sunflora",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "yanma",
+    "name": "Yanma",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "wooper",
+    "name": "Wooper",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "wooperpaldea",
+    "name": "Wooper-Paldea",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "quagsire",
+    "name": "Quagsire",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "espeon",
+    "name": "Espeon",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "umbreon",
+    "name": "Umbreon",
+    "types": [
+      "Dark"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "murkrow",
+    "name": "Murkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "slowking",
+    "name": "Slowking",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "slowkinggalar",
+    "name": "Slowking-Galar",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "misdreavus",
+    "name": "Misdreavus",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "girafarig",
+    "name": "Girafarig",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pineco",
+    "name": "Pineco",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "forretress",
+    "name": "Forretress",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dunsparce",
+    "name": "Dunsparce",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gligar",
+    "name": "Gligar",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "snubbull",
+    "name": "Snubbull",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "granbull",
+    "name": "Granbull",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "qwilfish",
+    "name": "Qwilfish",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "qwilfishhisui",
+    "name": "Qwilfish-Hisui",
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "tier": "PU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "scizor",
+    "name": "Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "heracross",
+    "name": "Heracross",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sneasel",
+    "name": "Sneasel",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "sneaselhisui",
+    "name": "Sneasel-Hisui",
+    "types": [
+      "Fighting",
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "teddiursa",
+    "name": "Teddiursa",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ursaring",
+    "name": "Ursaring",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "slugma",
+    "name": "Slugma",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "magcargo",
+    "name": "Magcargo",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "swinub",
+    "name": "Swinub",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "piloswine",
+    "name": "Piloswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "delibird",
+    "name": "Delibird",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "skarmory",
+    "name": "Skarmory",
+    "types": [
+      "Steel",
+      "Flying"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "houndour",
+    "name": "Houndour",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "houndoom",
+    "name": "Houndoom",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "kingdra",
+    "name": "Kingdra",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "phanpy",
+    "name": "Phanpy",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "donphan",
+    "name": "Donphan",
+    "types": [
+      "Ground"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "porygon2",
+    "name": "Porygon2",
+    "types": [
+      "Normal"
+    ],
+    "tier": "PU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "stantler",
+    "name": "Stantler",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "smeargle",
+    "name": "Smeargle",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tyrogue",
+    "name": "Tyrogue",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hitmontop",
+    "name": "Hitmontop",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "elekid",
+    "name": "Elekid",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "magby",
+    "name": "Magby",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "blissey",
+    "name": "Blissey",
+    "types": [
+      "Normal"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "raikou",
+    "name": "Raikou",
+    "types": [
+      "Electric"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "entei",
+    "name": "Entei",
+    "types": [
+      "Fire"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "suicune",
+    "name": "Suicune",
+    "types": [
+      "Water"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "larvitar",
+    "name": "Larvitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pupitar",
+    "name": "Pupitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tyranitar",
+    "name": "Tyranitar",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "lugia",
+    "name": "Lugia",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "hooh",
+    "name": "Ho-Oh",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "treecko",
+    "name": "Treecko",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grovyle",
+    "name": "Grovyle",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sceptile",
+    "name": "Sceptile",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "torchic",
+    "name": "Torchic",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "combusken",
+    "name": "Combusken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "blaziken",
+    "name": "Blaziken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mudkip",
+    "name": "Mudkip",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "marshtomp",
+    "name": "Marshtomp",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "swampert",
+    "name": "Swampert",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "poochyena",
+    "name": "Poochyena",
+    "types": [
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "mightyena",
+    "name": "Mightyena",
+    "types": [
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "lotad",
+    "name": "Lotad",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lombre",
+    "name": "Lombre",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ludicolo",
+    "name": "Ludicolo",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "seedot",
+    "name": "Seedot",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "nuzleaf",
+    "name": "Nuzleaf",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "shiftry",
+    "name": "Shiftry",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "wingull",
+    "name": "Wingull",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pelipper",
+    "name": "Pelipper",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ralts",
+    "name": "Ralts",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "kirlia",
+    "name": "Kirlia",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gardevoir",
+    "name": "Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "surskit",
+    "name": "Surskit",
+    "types": [
+      "Bug",
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "masquerain",
+    "name": "Masquerain",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shroomish",
+    "name": "Shroomish",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "breloom",
+    "name": "Breloom",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "slakoth",
+    "name": "Slakoth",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vigoroth",
+    "name": "Vigoroth",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "slaking",
+    "name": "Slaking",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "makuhita",
+    "name": "Makuhita",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hariyama",
+    "name": "Hariyama",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "azurill",
+    "name": "Azurill",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "nosepass",
+    "name": "Nosepass",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sableye",
+    "name": "Sableye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "meditite",
+    "name": "Meditite",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "medicham",
+    "name": "Medicham",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "plusle",
+    "name": "Plusle",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "minun",
+    "name": "Minun",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "volbeat",
+    "name": "Volbeat",
+    "types": [
+      "Bug"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "illumise",
+    "name": "Illumise",
+    "types": [
+      "Bug"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gulpin",
+    "name": "Gulpin",
+    "types": [
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "swalot",
+    "name": "Swalot",
+    "types": [
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "numel",
+    "name": "Numel",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "camerupt",
+    "name": "Camerupt",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "torkoal",
+    "name": "Torkoal",
+    "types": [
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "spoink",
+    "name": "Spoink",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grumpig",
+    "name": "Grumpig",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "trapinch",
+    "name": "Trapinch",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vibrava",
+    "name": "Vibrava",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "flygon",
+    "name": "Flygon",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cacnea",
+    "name": "Cacnea",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cacturne",
+    "name": "Cacturne",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "swablu",
+    "name": "Swablu",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "altaria",
+    "name": "Altaria",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "zangoose",
+    "name": "Zangoose",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "seviper",
+    "name": "Seviper",
+    "types": [
+      "Poison"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "barboach",
+    "name": "Barboach",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "whiscash",
+    "name": "Whiscash",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "corphish",
+    "name": "Corphish",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "crawdaunt",
+    "name": "Crawdaunt",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "feebas",
+    "name": "Feebas",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "milotic",
+    "name": "Milotic",
+    "types": [
+      "Water"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shuppet",
+    "name": "Shuppet",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "banette",
+    "name": "Banette",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "duskull",
+    "name": "Duskull",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dusclops",
+    "name": "Dusclops",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tropius",
+    "name": "Tropius",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "chimecho",
+    "name": "Chimecho",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "snorunt",
+    "name": "Snorunt",
+    "types": [
+      "Ice"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "glalie",
+    "name": "Glalie",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "luvdisc",
+    "name": "Luvdisc",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bagon",
+    "name": "Bagon",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "shelgon",
+    "name": "Shelgon",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "salamence",
+    "name": "Salamence",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "beldum",
+    "name": "Beldum",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "metang",
+    "name": "Metang",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "metagross",
+    "name": "Metagross",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "UU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "regirock",
+    "name": "Regirock",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "regice",
+    "name": "Regice",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "registeel",
+    "name": "Registeel",
+    "types": [
+      "Steel"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "latias",
+    "name": "Latias",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "latios",
+    "name": "Latios",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "kyogre",
+    "name": "Kyogre",
+    "types": [
+      "Water"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "groudon",
+    "name": "Groudon",
+    "types": [
+      "Ground"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "rayquaza",
+    "name": "Rayquaza",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "jirachi",
+    "name": "Jirachi",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "deoxys",
+    "name": "Deoxys",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "Uber",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "deoxysattack",
+    "name": "Deoxys-Attack",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "deoxysdefense",
+    "name": "Deoxys-Defense",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "deoxysspeed",
+    "name": "Deoxys-Speed",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "turtwig",
+    "name": "Turtwig",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grotle",
+    "name": "Grotle",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "torterra",
+    "name": "Torterra",
+    "types": [
+      "Grass",
+      "Ground"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "chimchar",
+    "name": "Chimchar",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "monferno",
+    "name": "Monferno",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "infernape",
+    "name": "Infernape",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "piplup",
+    "name": "Piplup",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "prinplup",
+    "name": "Prinplup",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "empoleon",
+    "name": "Empoleon",
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "starly",
+    "name": "Starly",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "staravia",
+    "name": "Staravia",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "staraptor",
+    "name": "Staraptor",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "kricketot",
+    "name": "Kricketot",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "kricketune",
+    "name": "Kricketune",
+    "types": [
+      "Bug"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shinx",
+    "name": "Shinx",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "luxio",
+    "name": "Luxio",
+    "types": [
+      "Electric"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "luxray",
+    "name": "Luxray",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cranidos",
+    "name": "Cranidos",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "rampardos",
+    "name": "Rampardos",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shieldon",
+    "name": "Shieldon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "bastiodon",
+    "name": "Bastiodon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "combee",
+    "name": "Combee",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vespiquen",
+    "name": "Vespiquen",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pachirisu",
+    "name": "Pachirisu",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "buizel",
+    "name": "Buizel",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "floatzel",
+    "name": "Floatzel",
+    "types": [
+      "Water"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shellos",
+    "name": "Shellos",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gastrodon",
+    "name": "Gastrodon",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ambipom",
+    "name": "Ambipom",
+    "types": [
+      "Normal"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "drifloon",
+    "name": "Drifloon",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "drifblim",
+    "name": "Drifblim",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mismagius",
+    "name": "Mismagius",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "honchkrow",
+    "name": "Honchkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "chingling",
+    "name": "Chingling",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "stunky",
+    "name": "Stunky",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "skuntank",
+    "name": "Skuntank",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bronzor",
+    "name": "Bronzor",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "bronzong",
+    "name": "Bronzong",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bonsly",
+    "name": "Bonsly",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "happiny",
+    "name": "Happiny",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "spiritomb",
+    "name": "Spiritomb",
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gible",
+    "name": "Gible",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gabite",
+    "name": "Gabite",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "garchomp",
+    "name": "Garchomp",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "munchlax",
+    "name": "Munchlax",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "riolu",
+    "name": "Riolu",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lucario",
+    "name": "Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "hippopotas",
+    "name": "Hippopotas",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hippowdon",
+    "name": "Hippowdon",
+    "types": [
+      "Ground"
+    ],
+    "tier": "UU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "croagunk",
+    "name": "Croagunk",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "toxicroak",
+    "name": "Toxicroak",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "finneon",
+    "name": "Finneon",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lumineon",
+    "name": "Lumineon",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "snover",
+    "name": "Snover",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "abomasnow",
+    "name": "Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "weavile",
+    "name": "Weavile",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "magnezone",
+    "name": "Magnezone",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rhyperior",
+    "name": "Rhyperior",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "electivire",
+    "name": "Electivire",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "magmortar",
+    "name": "Magmortar",
+    "types": [
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "yanmega",
+    "name": "Yanmega",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "leafeon",
+    "name": "Leafeon",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "glaceon",
+    "name": "Glaceon",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gliscor",
+    "name": "Gliscor",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mamoswine",
+    "name": "Mamoswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "porygonz",
+    "name": "Porygon-Z",
+    "types": [
+      "Normal"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gallade",
+    "name": "Gallade",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "tier": "RU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "probopass",
+    "name": "Probopass",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dusknoir",
+    "name": "Dusknoir",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "froslass",
+    "name": "Froslass",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rotom",
+    "name": "Rotom",
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rotomheat",
+    "name": "Rotom-Heat",
+    "types": [
+      "Electric",
+      "Fire"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rotomwash",
+    "name": "Rotom-Wash",
+    "types": [
+      "Electric",
+      "Water"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rotomfrost",
+    "name": "Rotom-Frost",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rotomfan",
+    "name": "Rotom-Fan",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rotommow",
+    "name": "Rotom-Mow",
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "uxie",
+    "name": "Uxie",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mesprit",
+    "name": "Mesprit",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "azelf",
+    "name": "Azelf",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dialga",
+    "name": "Dialga",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "dialgaorigin",
+    "name": "Dialga-Origin",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "palkia",
+    "name": "Palkia",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "palkiaorigin",
+    "name": "Palkia-Origin",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "heatran",
+    "name": "Heatran",
+    "types": [
+      "Fire",
+      "Steel"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "regigigas",
+    "name": "Regigigas",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "giratina",
+    "name": "Giratina",
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "giratinaorigin",
+    "name": "Giratina-Origin",
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "cresselia",
+    "name": "Cresselia",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "phione",
+    "name": "Phione",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "manaphy",
+    "name": "Manaphy",
+    "types": [
+      "Water"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "darkrai",
+    "name": "Darkrai",
+    "types": [
+      "Dark"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "shaymin",
+    "name": "Shaymin",
+    "types": [
+      "Grass"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shayminsky",
+    "name": "Shaymin-Sky",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "Uber",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "arceus",
+    "name": "Arceus",
+    "types": [
+      "Normal"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusbug",
+    "name": "Arceus-Bug",
+    "types": [
+      "Bug"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusdark",
+    "name": "Arceus-Dark",
+    "types": [
+      "Dark"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusdragon",
+    "name": "Arceus-Dragon",
+    "types": [
+      "Dragon"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceuselectric",
+    "name": "Arceus-Electric",
+    "types": [
+      "Electric"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusfairy",
+    "name": "Arceus-Fairy",
+    "types": [
+      "Fairy"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusfighting",
+    "name": "Arceus-Fighting",
+    "types": [
+      "Fighting"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusfire",
+    "name": "Arceus-Fire",
+    "types": [
+      "Fire"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusflying",
+    "name": "Arceus-Flying",
+    "types": [
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusghost",
+    "name": "Arceus-Ghost",
+    "types": [
+      "Ghost"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusgrass",
+    "name": "Arceus-Grass",
+    "types": [
+      "Grass"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusground",
+    "name": "Arceus-Ground",
+    "types": [
+      "Ground"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusice",
+    "name": "Arceus-Ice",
+    "types": [
+      "Ice"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceuspoison",
+    "name": "Arceus-Poison",
+    "types": [
+      "Poison"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceuspsychic",
+    "name": "Arceus-Psychic",
+    "types": [
+      "Psychic"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceusrock",
+    "name": "Arceus-Rock",
+    "types": [
+      "Rock"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceussteel",
+    "name": "Arceus-Steel",
+    "types": [
+      "Steel"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arceuswater",
+    "name": "Arceus-Water",
+    "types": [
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "snivy",
+    "name": "Snivy",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "servine",
+    "name": "Servine",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "serperior",
+    "name": "Serperior",
+    "types": [
+      "Grass"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tepig",
+    "name": "Tepig",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pignite",
+    "name": "Pignite",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "emboar",
+    "name": "Emboar",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oshawott",
+    "name": "Oshawott",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dewott",
+    "name": "Dewott",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "samurott",
+    "name": "Samurott",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "samurotthisui",
+    "name": "Samurott-Hisui",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "blitzle",
+    "name": "Blitzle",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "zebstrika",
+    "name": "Zebstrika",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "drilbur",
+    "name": "Drilbur",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "excadrill",
+    "name": "Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "timburr",
+    "name": "Timburr",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gurdurr",
+    "name": "Gurdurr",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "conkeldurr",
+    "name": "Conkeldurr",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sewaddle",
+    "name": "Sewaddle",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "swadloon",
+    "name": "Swadloon",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "leavanny",
+    "name": "Leavanny",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cottonee",
+    "name": "Cottonee",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "whimsicott",
+    "name": "Whimsicott",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "petilil",
+    "name": "Petilil",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lilligant",
+    "name": "Lilligant",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "lilliganthisui",
+    "name": "Lilligant-Hisui",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "basculin",
+    "name": "Basculin",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "basculinbluestriped",
+    "name": "Basculin-Blue-Striped",
+    "types": [
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "basculinwhitestriped",
+    "name": "Basculin-White-Striped",
+    "types": [
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sandile",
+    "name": "Sandile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "krokorok",
+    "name": "Krokorok",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "krookodile",
+    "name": "Krookodile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "scraggy",
+    "name": "Scraggy",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "scrafty",
+    "name": "Scrafty",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "tier": "PUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "zorua",
+    "name": "Zorua",
+    "types": [
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "zoruahisui",
+    "name": "Zorua-Hisui",
+    "types": [
+      "Normal",
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "zoroark",
+    "name": "Zoroark",
+    "types": [
+      "Dark"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "zoroarkhisui",
+    "name": "Zoroark-Hisui",
+    "types": [
+      "Normal",
+      "Ghost"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "minccino",
+    "name": "Minccino",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cinccino",
+    "name": "Cinccino",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gothita",
+    "name": "Gothita",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gothorita",
+    "name": "Gothorita",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gothitelle",
+    "name": "Gothitelle",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "solosis",
+    "name": "Solosis",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "duosion",
+    "name": "Duosion",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "reuniclus",
+    "name": "Reuniclus",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ducklett",
+    "name": "Ducklett",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "swanna",
+    "name": "Swanna",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "deerling",
+    "name": "Deerling",
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sawsbuck",
+    "name": "Sawsbuck",
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "foongus",
+    "name": "Foongus",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "amoonguss",
+    "name": "Amoonguss",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "tier": "PU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "alomomola",
+    "name": "Alomomola",
+    "types": [
+      "Water"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "joltik",
+    "name": "Joltik",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "galvantula",
+    "name": "Galvantula",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tynamo",
+    "name": "Tynamo",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "eelektrik",
+    "name": "Eelektrik",
+    "types": [
+      "Electric"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "eelektross",
+    "name": "Eelektross",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "litwick",
+    "name": "Litwick",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lampent",
+    "name": "Lampent",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "chandelure",
+    "name": "Chandelure",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "axew",
+    "name": "Axew",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "fraxure",
+    "name": "Fraxure",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "haxorus",
+    "name": "Haxorus",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cubchoo",
+    "name": "Cubchoo",
+    "types": [
+      "Ice"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "beartic",
+    "name": "Beartic",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cryogonal",
+    "name": "Cryogonal",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mienfoo",
+    "name": "Mienfoo",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "mienshao",
+    "name": "Mienshao",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "golett",
+    "name": "Golett",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "golurk",
+    "name": "Golurk",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pawniard",
+    "name": "Pawniard",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "bisharp",
+    "name": "Bisharp",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "tier": "RU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "rufflet",
+    "name": "Rufflet",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "braviary",
+    "name": "Braviary",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "braviaryhisui",
+    "name": "Braviary-Hisui",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "vullaby",
+    "name": "Vullaby",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "mandibuzz",
+    "name": "Mandibuzz",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "deino",
+    "name": "Deino",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "zweilous",
+    "name": "Zweilous",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hydreigon",
+    "name": "Hydreigon",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "larvesta",
+    "name": "Larvesta",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "volcarona",
+    "name": "Volcarona",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "tier": "Uber",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cobalion",
+    "name": "Cobalion",
+    "types": [
+      "Steel",
+      "Fighting"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "terrakion",
+    "name": "Terrakion",
+    "types": [
+      "Rock",
+      "Fighting"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "virizion",
+    "name": "Virizion",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tornadus",
+    "name": "Tornadus",
+    "types": [
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "tornadustherian",
+    "name": "Tornadus-Therian",
+    "types": [
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "thundurus",
+    "name": "Thundurus",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "thundurustherian",
+    "name": "Thundurus-Therian",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "reshiram",
+    "name": "Reshiram",
+    "types": [
+      "Dragon",
+      "Fire"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "zekrom",
+    "name": "Zekrom",
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "landorus",
+    "name": "Landorus",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "landorustherian",
+    "name": "Landorus-Therian",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "kyurem",
+    "name": "Kyurem",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "kyuremblack",
+    "name": "Kyurem-Black",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "kyuremwhite",
+    "name": "Kyurem-White",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "keldeo",
+    "name": "Keldeo",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "keldeoresolute",
+    "name": "Keldeo-Resolute",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "meloetta",
+    "name": "Meloetta",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "meloettapirouette",
+    "name": "Meloetta-Pirouette",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "chespin",
+    "name": "Chespin",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "quilladin",
+    "name": "Quilladin",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "chesnaught",
+    "name": "Chesnaught",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "fennekin",
+    "name": "Fennekin",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "braixen",
+    "name": "Braixen",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "delphox",
+    "name": "Delphox",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "froakie",
+    "name": "Froakie",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "frogadier",
+    "name": "Frogadier",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "greninja",
+    "name": "Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "greninjabond",
+    "name": "Greninja-Bond",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "fletchling",
+    "name": "Fletchling",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "fletchinder",
+    "name": "Fletchinder",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "talonflame",
+    "name": "Talonflame",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "scatterbug",
+    "name": "Scatterbug",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "spewpa",
+    "name": "Spewpa",
+    "types": [
+      "Bug"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vivillon",
+    "name": "Vivillon",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "vivillonfancy",
+    "name": "Vivillon-Fancy",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vivillonpokeball",
+    "name": "Vivillon-Pokeball",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "litleo",
+    "name": "Litleo",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pyroar",
+    "name": "Pyroar",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "flabebe",
+    "name": "Flabe\\u0301be\\u0301",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "floette",
+    "name": "Floette",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "florges",
+    "name": "Florges",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "skiddo",
+    "name": "Skiddo",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gogoat",
+    "name": "Gogoat",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "espurr",
+    "name": "Espurr",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "meowstic",
+    "name": "Meowstic",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "meowsticf",
+    "name": "Meowstic-F",
+    "types": [
+      "Psychic"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "inkay",
+    "name": "Inkay",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "malamar",
+    "name": "Malamar",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "skrelp",
+    "name": "Skrelp",
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dragalge",
+    "name": "Dragalge",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "tier": "PUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "clauncher",
+    "name": "Clauncher",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "clawitzer",
+    "name": "Clawitzer",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sylveon",
+    "name": "Sylveon",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "hawlucha",
+    "name": "Hawlucha",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dedenne",
+    "name": "Dedenne",
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "carbink",
+    "name": "Carbink",
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "goomy",
+    "name": "Goomy",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sliggoo",
+    "name": "Sliggoo",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sliggoohisui",
+    "name": "Sliggoo-Hisui",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "goodra",
+    "name": "Goodra",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "goodrahisui",
+    "name": "Goodra-Hisui",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "klefki",
+    "name": "Klefki",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "phantump",
+    "name": "Phantump",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "trevenant",
+    "name": "Trevenant",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bergmite",
+    "name": "Bergmite",
+    "types": [
+      "Ice"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "avalugg",
+    "name": "Avalugg",
+    "types": [
+      "Ice"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "avalugghisui",
+    "name": "Avalugg-Hisui",
+    "types": [
+      "Ice",
+      "Rock"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "noibat",
+    "name": "Noibat",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "noivern",
+    "name": "Noivern",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "diancie",
+    "name": "Diancie",
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "tier": "RU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "hoopa",
+    "name": "Hoopa",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "hoopaunbound",
+    "name": "Hoopa-Unbound",
+    "types": [
+      "Psychic",
+      "Dark"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "volcanion",
+    "name": "Volcanion",
+    "types": [
+      "Fire",
+      "Water"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "rowlet",
+    "name": "Rowlet",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dartrix",
+    "name": "Dartrix",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "decidueye",
+    "name": "Decidueye",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "decidueyehisui",
+    "name": "Decidueye-Hisui",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "litten",
+    "name": "Litten",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "torracat",
+    "name": "Torracat",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "incineroar",
+    "name": "Incineroar",
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "tier": "NU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "popplio",
+    "name": "Popplio",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "brionne",
+    "name": "Brionne",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "primarina",
+    "name": "Primarina",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "pikipek",
+    "name": "Pikipek",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "trumbeak",
+    "name": "Trumbeak",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "toucannon",
+    "name": "Toucannon",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "yungoos",
+    "name": "Yungoos",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gumshoos",
+    "name": "Gumshoos",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "grubbin",
+    "name": "Grubbin",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "charjabug",
+    "name": "Charjabug",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "vikavolt",
+    "name": "Vikavolt",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "crabrawler",
+    "name": "Crabrawler",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "crabominable",
+    "name": "Crabominable",
+    "types": [
+      "Fighting",
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oricorio",
+    "name": "Oricorio",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oricoriopompom",
+    "name": "Oricorio-Pom-Pom",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oricoriopau",
+    "name": "Oricorio-Pa'u",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oricoriosensu",
+    "name": "Oricorio-Sensu",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cutiefly",
+    "name": "Cutiefly",
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ribombee",
+    "name": "Ribombee",
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rockruff",
+    "name": "Rockruff",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "rockruffdusk",
+    "name": "Rockruff-Dusk",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lycanroc",
+    "name": "Lycanroc",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "lycanrocmidnight",
+    "name": "Lycanroc-Midnight",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "lycanrocdusk",
+    "name": "Lycanroc-Dusk",
+    "types": [
+      "Rock"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mareanie",
+    "name": "Mareanie",
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "toxapex",
+    "name": "Toxapex",
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mudbray",
+    "name": "Mudbray",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "mudsdale",
+    "name": "Mudsdale",
+    "types": [
+      "Ground"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dewpider",
+    "name": "Dewpider",
+    "types": [
+      "Water",
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "araquanid",
+    "name": "Araquanid",
+    "types": [
+      "Water",
+      "Bug"
+    ],
+    "tier": "NU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "fomantis",
+    "name": "Fomantis",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lurantis",
+    "name": "Lurantis",
+    "types": [
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "salandit",
+    "name": "Salandit",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "salazzle",
+    "name": "Salazzle",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bounsweet",
+    "name": "Bounsweet",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "steenee",
+    "name": "Steenee",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tsareena",
+    "name": "Tsareena",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "comfey",
+    "name": "Comfey",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "RU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "oranguru",
+    "name": "Oranguru",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "passimian",
+    "name": "Passimian",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sandygast",
+    "name": "Sandygast",
+    "types": [
+      "Ghost",
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "palossand",
+    "name": "Palossand",
+    "types": [
+      "Ghost",
+      "Ground"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "minior",
+    "name": "Minior",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "miniormeteor",
+    "name": "Minior-Meteor",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "komala",
+    "name": "Komala",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mimikyu",
+    "name": "Mimikyu",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "mimikyubusted",
+    "name": "Mimikyu-Busted",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "bruxish",
+    "name": "Bruxish",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "jangmoo",
+    "name": "Jangmo-o",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hakamoo",
+    "name": "Hakamo-o",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "kommoo",
+    "name": "Kommo-o",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cosmog",
+    "name": "Cosmog",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cosmoem",
+    "name": "Cosmoem",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "solgaleo",
+    "name": "Solgaleo",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "lunala",
+    "name": "Lunala",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "necrozma",
+    "name": "Necrozma",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "necrozmaduskmane",
+    "name": "Necrozma-Dusk-Mane",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "necrozmadawnwings",
+    "name": "Necrozma-Dawn-Wings",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "magearna",
+    "name": "Magearna",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "magearnaoriginal",
+    "name": "Magearna-Original",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grookey",
+    "name": "Grookey",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "thwackey",
+    "name": "Thwackey",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "rillaboom",
+    "name": "Rillaboom",
+    "types": [
+      "Grass"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "scorbunny",
+    "name": "Scorbunny",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "raboot",
+    "name": "Raboot",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cinderace",
+    "name": "Cinderace",
+    "types": [
+      "Fire"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sobble",
+    "name": "Sobble",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "drizzile",
+    "name": "Drizzile",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "inteleon",
+    "name": "Inteleon",
+    "types": [
+      "Water"
+    ],
+    "tier": "PUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "skwovet",
+    "name": "Skwovet",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "greedent",
+    "name": "Greedent",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rookidee",
+    "name": "Rookidee",
+    "types": [
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "corvisquire",
+    "name": "Corvisquire",
+    "types": [
+      "Flying"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "corviknight",
+    "name": "Corviknight",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "chewtle",
+    "name": "Chewtle",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "drednaw",
+    "name": "Drednaw",
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "tier": "PUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rolycoly",
+    "name": "Rolycoly",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "carkol",
+    "name": "Carkol",
+    "types": [
+      "Rock",
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "coalossal",
+    "name": "Coalossal",
+    "types": [
+      "Rock",
+      "Fire"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "applin",
+    "name": "Applin",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "flapple",
+    "name": "Flapple",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "appletun",
+    "name": "Appletun",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "silicobra",
+    "name": "Silicobra",
+    "types": [
+      "Ground"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sandaconda",
+    "name": "Sandaconda",
+    "types": [
+      "Ground"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cramorant",
+    "name": "Cramorant",
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cramorantgulping",
+    "name": "Cramorant-Gulping",
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cramorantgorging",
+    "name": "Cramorant-Gorging",
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arrokuda",
+    "name": "Arrokuda",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "barraskewda",
+    "name": "Barraskewda",
+    "types": [
+      "Water"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "toxel",
+    "name": "Toxel",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "toxtricity",
+    "name": "Toxtricity",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "toxtricitylowkey",
+    "name": "Toxtricity-Low-Key",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sinistea",
+    "name": "Sinistea",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sinisteaantique",
+    "name": "Sinistea-Antique",
+    "types": [
+      "Ghost"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "polteageist",
+    "name": "Polteageist",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "polteageistantique",
+    "name": "Polteageist-Antique",
+    "types": [
+      "Ghost"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hatenna",
+    "name": "Hatenna",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hattrem",
+    "name": "Hattrem",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "hatterene",
+    "name": "Hatterene",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "impidimp",
+    "name": "Impidimp",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "morgrem",
+    "name": "Morgrem",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grimmsnarl",
+    "name": "Grimmsnarl",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "tier": "PU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "perrserker",
+    "name": "Perrserker",
+    "types": [
+      "Steel"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "milcery",
+    "name": "Milcery",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "alcremie",
+    "name": "Alcremie",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "falinks",
+    "name": "Falinks",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pincurchin",
+    "name": "Pincurchin",
+    "types": [
+      "Electric"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "snom",
+    "name": "Snom",
+    "types": [
+      "Ice",
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "frosmoth",
+    "name": "Frosmoth",
+    "types": [
+      "Ice",
+      "Bug"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "stonjourner",
+    "name": "Stonjourner",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "eiscue",
+    "name": "Eiscue",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "eiscuenoice",
+    "name": "Eiscue-Noice",
+    "types": [
+      "Ice"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "indeedee",
+    "name": "Indeedee",
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
+    "tier": "PUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "indeedeef",
+    "name": "Indeedee-F",
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "morpeko",
+    "name": "Morpeko",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "morpekohangry",
+    "name": "Morpeko-Hangry",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cufant",
+    "name": "Cufant",
+    "types": [
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "copperajah",
+    "name": "Copperajah",
+    "types": [
+      "Steel"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "duraludon",
+    "name": "Duraludon",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "tier": "NU",
+    "doublesTier": "NFE",
+    "isNonstandard": null
+  },
+  {
+    "id": "dreepy",
+    "name": "Dreepy",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "drakloak",
+    "name": "Drakloak",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dragapult",
+    "name": "Dragapult",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "zacian",
+    "name": "Zacian",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "zaciancrowned",
+    "name": "Zacian-Crowned",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "zamazenta",
+    "name": "Zamazenta",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "zamazentacrowned",
+    "name": "Zamazenta-Crowned",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "eternatus",
+    "name": "Eternatus",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "kubfu",
+    "name": "Kubfu",
+    "types": [
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "urshifu",
+    "name": "Urshifu",
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "urshifurapidstrike",
+    "name": "Urshifu-Rapid-Strike",
+    "types": [
+      "Fighting",
+      "Water"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "zarude",
+    "name": "Zarude",
+    "types": [
+      "Dark",
+      "Grass"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "zarudedada",
+    "name": "Zarude-Dada",
+    "types": [
+      "Dark",
+      "Grass"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "regieleki",
+    "name": "Regieleki",
+    "types": [
+      "Electric"
+    ],
+    "tier": "UU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "regidrago",
+    "name": "Regidrago",
+    "types": [
+      "Dragon"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "glastrier",
+    "name": "Glastrier",
+    "types": [
+      "Ice"
+    ],
+    "tier": "ZUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "spectrier",
+    "name": "Spectrier",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "Uber",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "calyrex",
+    "name": "Calyrex",
+    "types": [
+      "Psychic",
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "calyrexice",
+    "name": "Calyrex-Ice",
+    "types": [
+      "Psychic",
+      "Ice"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "calyrexshadow",
+    "name": "Calyrex-Shadow",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "tier": "AG",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "wyrdeer",
+    "name": "Wyrdeer",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "kleavor",
+    "name": "Kleavor",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "tier": "RU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ursaluna",
+    "name": "Ursaluna",
+    "types": [
+      "Ground",
+      "Normal"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ursalunabloodmoon",
+    "name": "Ursaluna-Bloodmoon",
+    "types": [
+      "Ground",
+      "Normal"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "basculegion",
+    "name": "Basculegion",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "tier": "NU",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "basculegionf",
+    "name": "Basculegion-F",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "tier": "RU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "sneasler",
+    "name": "Sneasler",
+    "types": [
+      "Fighting",
+      "Poison"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "overqwil",
+    "name": "Overqwil",
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "enamorus",
+    "name": "Enamorus",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "enamorustherian",
+    "name": "Enamorus-Therian",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sprigatito",
+    "name": "Sprigatito",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "floragato",
+    "name": "Floragato",
+    "types": [
+      "Grass"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "meowscarada",
+    "name": "Meowscarada",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "fuecoco",
+    "name": "Fuecoco",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "crocalor",
+    "name": "Crocalor",
+    "types": [
+      "Fire"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "skeledirge",
+    "name": "Skeledirge",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "quaxly",
+    "name": "Quaxly",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "quaxwell",
+    "name": "Quaxwell",
+    "types": [
+      "Water"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "quaquaval",
+    "name": "Quaquaval",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "lechonk",
+    "name": "Lechonk",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "oinkologne",
+    "name": "Oinkologne",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "oinkolognef",
+    "name": "Oinkologne-F",
+    "types": [
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tarountula",
+    "name": "Tarountula",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "spidops",
+    "name": "Spidops",
+    "types": [
+      "Bug"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "nymble",
+    "name": "Nymble",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "lokix",
+    "name": "Lokix",
+    "types": [
+      "Bug",
+      "Dark"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "pawmi",
+    "name": "Pawmi",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pawmo",
+    "name": "Pawmo",
+    "types": [
+      "Electric",
+      "Fighting"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "pawmot",
+    "name": "Pawmot",
+    "types": [
+      "Electric",
+      "Fighting"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tandemaus",
+    "name": "Tandemaus",
+    "types": [
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "maushold",
+    "name": "Maushold",
+    "types": [
+      "Normal"
+    ],
+    "tier": "RU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "mausholdfour",
+    "name": "Maushold-Four",
+    "types": [
+      "Normal"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "fidough",
+    "name": "Fidough",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dachsbun",
+    "name": "Dachsbun",
+    "types": [
+      "Fairy"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "smoliv",
+    "name": "Smoliv",
+    "types": [
+      "Grass",
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "dolliv",
+    "name": "Dolliv",
+    "types": [
+      "Grass",
+      "Normal"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arboliva",
+    "name": "Arboliva",
+    "types": [
+      "Grass",
+      "Normal"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "squawkabilly",
+    "name": "Squawkabilly",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "squawkabillyblue",
+    "name": "Squawkabilly-Blue",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "squawkabillyyellow",
+    "name": "Squawkabilly-Yellow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "squawkabillywhite",
+    "name": "Squawkabilly-White",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "nacli",
+    "name": "Nacli",
+    "types": [
+      "Rock"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "naclstack",
+    "name": "Naclstack",
+    "types": [
+      "Rock"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "garganacl",
+    "name": "Garganacl",
+    "types": [
+      "Rock"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "charcadet",
+    "name": "Charcadet",
+    "types": [
+      "Fire"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "armarouge",
+    "name": "Armarouge",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ceruledge",
+    "name": "Ceruledge",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tadbulb",
+    "name": "Tadbulb",
+    "types": [
+      "Electric"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "bellibolt",
+    "name": "Bellibolt",
+    "types": [
+      "Electric"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "wattrel",
+    "name": "Wattrel",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "kilowattrel",
+    "name": "Kilowattrel",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "maschiff",
+    "name": "Maschiff",
+    "types": [
+      "Dark"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "mabosstiff",
+    "name": "Mabosstiff",
+    "types": [
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "shroodle",
+    "name": "Shroodle",
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "grafaiai",
+    "name": "Grafaiai",
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bramblin",
+    "name": "Bramblin",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "brambleghast",
+    "name": "Brambleghast",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "toedscool",
+    "name": "Toedscool",
+    "types": [
+      "Ground",
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "toedscruel",
+    "name": "Toedscruel",
+    "types": [
+      "Ground",
+      "Grass"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "klawf",
+    "name": "Klawf",
+    "types": [
+      "Rock"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "capsakid",
+    "name": "Capsakid",
+    "types": [
+      "Grass"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "scovillain",
+    "name": "Scovillain",
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "rellor",
+    "name": "Rellor",
+    "types": [
+      "Bug"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "rabsca",
+    "name": "Rabsca",
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "flittle",
+    "name": "Flittle",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "espathra",
+    "name": "Espathra",
+    "types": [
+      "Psychic"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "tinkatink",
+    "name": "Tinkatink",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tinkatuff",
+    "name": "Tinkatuff",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tinkaton",
+    "name": "Tinkaton",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "wiglett",
+    "name": "Wiglett",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "wugtrio",
+    "name": "Wugtrio",
+    "types": [
+      "Water"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "bombirdier",
+    "name": "Bombirdier",
+    "types": [
+      "Flying",
+      "Dark"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "finizen",
+    "name": "Finizen",
+    "types": [
+      "Water"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "palafin",
+    "name": "Palafin",
+    "types": [
+      "Water"
+    ],
+    "tier": "Uber",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "palafinhero",
+    "name": "Palafin-Hero",
+    "types": [
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "varoom",
+    "name": "Varoom",
+    "types": [
+      "Steel",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "revavroom",
+    "name": "Revavroom",
+    "types": [
+      "Steel",
+      "Poison"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cyclizar",
+    "name": "Cyclizar",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "tier": "RU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "orthworm",
+    "name": "Orthworm",
+    "types": [
+      "Steel"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "glimmet",
+    "name": "Glimmet",
+    "types": [
+      "Rock",
+      "Poison"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "glimmora",
+    "name": "Glimmora",
+    "types": [
+      "Rock",
+      "Poison"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "greavard",
+    "name": "Greavard",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "houndstone",
+    "name": "Houndstone",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "NU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "flamigo",
+    "name": "Flamigo",
+    "types": [
+      "Flying",
+      "Fighting"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "cetoddle",
+    "name": "Cetoddle",
+    "types": [
+      "Ice"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "cetitan",
+    "name": "Cetitan",
+    "types": [
+      "Ice"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "veluza",
+    "name": "Veluza",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dondozo",
+    "name": "Dondozo",
+    "types": [
+      "Water"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tatsugiri",
+    "name": "Tatsugiri",
+    "types": [
+      "Dragon",
+      "Water"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "tatsugiridroopy",
+    "name": "Tatsugiri-Droopy",
+    "types": [
+      "Dragon",
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "tatsugiristretchy",
+    "name": "Tatsugiri-Stretchy",
+    "types": [
+      "Dragon",
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "annihilape",
+    "name": "Annihilape",
+    "types": [
+      "Fighting",
+      "Ghost"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "clodsire",
+    "name": "Clodsire",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "farigiraf",
+    "name": "Farigiraf",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "dudunsparce",
+    "name": "Dudunsparce",
+    "types": [
+      "Normal"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dudunsparcethreesegment",
+    "name": "Dudunsparce-Three-Segment",
+    "types": [
+      "Normal"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "kingambit",
+    "name": "Kingambit",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "greattusk",
+    "name": "Great Tusk",
+    "types": [
+      "Ground",
+      "Fighting"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "screamtail",
+    "name": "Scream Tail",
+    "types": [
+      "Fairy",
+      "Psychic"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "brutebonnet",
+    "name": "Brute Bonnet",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "tier": "ZU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "fluttermane",
+    "name": "Flutter Mane",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "slitherwing",
+    "name": "Slither Wing",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "sandyshocks",
+    "name": "Sandy Shocks",
+    "types": [
+      "Electric",
+      "Ground"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "irontreads",
+    "name": "Iron Treads",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironbundle",
+    "name": "Iron Bundle",
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironhands",
+    "name": "Iron Hands",
+    "types": [
+      "Fighting",
+      "Electric"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironjugulis",
+    "name": "Iron Jugulis",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironmoth",
+    "name": "Iron Moth",
+    "types": [
+      "Fire",
+      "Poison"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironthorns",
+    "name": "Iron Thorns",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
+    "tier": "NUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "frigibax",
+    "name": "Frigibax",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "arctibax",
+    "name": "Arctibax",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "baxcalibur",
+    "name": "Baxcalibur",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "gimmighoul",
+    "name": "Gimmighoul",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gimmighoulroaming",
+    "name": "Gimmighoul-Roaming",
+    "types": [
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "gholdengo",
+    "name": "Gholdengo",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "wochien",
+    "name": "Wo-Chien",
+    "types": [
+      "Dark",
+      "Grass"
+    ],
+    "tier": "PU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "chienpao",
+    "name": "Chien-Pao",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "tinglu",
+    "name": "Ting-Lu",
+    "types": [
+      "Dark",
+      "Ground"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "chiyu",
+    "name": "Chi-Yu",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "roaringmoon",
+    "name": "Roaring Moon",
+    "types": [
+      "Dragon",
+      "Dark"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironvaliant",
+    "name": "Iron Valiant",
+    "types": [
+      "Fairy",
+      "Fighting"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "koraidon",
+    "name": "Koraidon",
+    "types": [
+      "Fighting",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "miraidon",
+    "name": "Miraidon",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "tier": "AG",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "walkingwake",
+    "name": "Walking Wake",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironleaves",
+    "name": "Iron Leaves",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "tier": "RUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "dipplin",
+    "name": "Dipplin",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "tier": "NFE",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "poltchageist",
+    "name": "Poltchageist",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": "LC",
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "poltchageistartisan",
+    "name": "Poltchageist-Artisan",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "sinistcha",
+    "name": "Sinistcha",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": "UU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "sinistchamasterpiece",
+    "name": "Sinistcha-Masterpiece",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "okidogi",
+    "name": "Okidogi",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "munkidori",
+    "name": "Munkidori",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "tier": "NU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "fezandipiti",
+    "name": "Fezandipiti",
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerpon",
+    "name": "Ogerpon",
+    "types": [
+      "Grass"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerponwellspring",
+    "name": "Ogerpon-Wellspring",
+    "types": [
+      "Grass",
+      "Water"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerponhearthflame",
+    "name": "Ogerpon-Hearthflame",
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerponcornerstone",
+    "name": "Ogerpon-Cornerstone",
+    "types": [
+      "Grass",
+      "Rock"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerpontealtera",
+    "name": "Ogerpon-Teal-Tera",
+    "types": [
+      "Grass"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerponwellspringtera",
+    "name": "Ogerpon-Wellspring-Tera",
+    "types": [
+      "Grass",
+      "Water"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerponhearthflametera",
+    "name": "Ogerpon-Hearthflame-Tera",
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "ogerponcornerstonetera",
+    "name": "Ogerpon-Cornerstone-Tera",
+    "types": [
+      "Grass",
+      "Rock"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "archaludon",
+    "name": "Archaludon",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "hydrapple",
+    "name": "Hydrapple",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "tier": "UU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "gougingfire",
+    "name": "Gouging Fire",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ragingbolt",
+    "name": "Raging Bolt",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "tier": "OU",
+    "doublesTier": "DOU",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironboulder",
+    "name": "Iron Boulder",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
+    "tier": "UUBL",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  },
+  {
+    "id": "ironcrown",
+    "name": "Iron Crown",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "tier": "OU",
+    "doublesTier": "DUU",
+    "isNonstandard": null
+  },
+  {
+    "id": "terapagos",
+    "name": "Terapagos",
+    "types": [
+      "Normal"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "terapagosterastal",
+    "name": "Terapagos-Terastal",
+    "types": [
+      "Normal"
+    ],
+    "tier": null,
+    "doublesTier": null,
+    "isNonstandard": null
+  },
+  {
+    "id": "terapagosstellar",
+    "name": "Terapagos-Stellar",
+    "types": [
+      "Normal"
+    ],
+    "tier": "Uber",
+    "doublesTier": "DUber",
+    "isNonstandard": null
+  },
+  {
+    "id": "pecharunt",
+    "name": "Pecharunt",
+    "types": [
+      "Poison",
+      "Ghost"
+    ],
+    "tier": "OU",
+    "doublesTier": "(DUU)",
+    "isNonstandard": null
+  }
+]
